@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(255, 255, 255);
+    
+}
+#daniel{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 300px;
+    border-radius: 50%;
+
+}
+#desper{
+    text-align: center;
+    margin-left: 40px;
+    border: 100px;
+    width: 400px;
+    border-color: black;
+    outline: 3px solid black;
+}
