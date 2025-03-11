@@ -1,17 +1,50 @@
-*{
-    background-color: rgb(255, 255, 255);
-    
-}
+
 #daniel{
     margin-left: 50px;
     margin-top: 50px;
     width: 300px;
     border-radius: 50%;
+    border: 1px solid black;
 
 }
 #desper{
     text-align: center;
     margin-left: 40px;
+    border: 100px;
+    width: 400px;
+    border-color: black;
+    outline: 3px solid black;
+}
+#infoacade{
+    text-align: center;
+    margin-left: 500px;
+    margin-top: -850px;
+    border: 100px;
+    width: 400px;
+    border-color: black;
+    outline: 3px solid black;
+}
+#Habilidades{
+    text-align: center;
+    margin-left: 500px;
+    border: 100px;
+    width: 400px;
+    border-color: black;
+    outline: 3px solid black;
+}
+#proye{
+    text-align: center;
+    margin-left: 930px;
+    margin-top: -375px;
+    border: 100px;
+    width: 400px;
+    border-color: black;
+    outline: 3px solid black;
+}
+#certi{
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 840px;
     border: 100px;
     width: 400px;
     border-color: black;
