@@ -35,7 +35,7 @@
 #proye{
     text-align: center;
     margin-left: 930px;
-    margin-top: -375px;
+    margin-top: -455px;
     border: 100px;
     width: 400px;
     border-color: black;
@@ -44,9 +44,29 @@
 #certi{
     text-align: center;
     margin-left: 40px;
-    margin-top: 840px;
+    margin-top: 260px;
     border: 100px;
-    width: 400px;
+    width: 1000px;
     border-color: black;
     outline: 3px solid black;
+}
+
+#tecnicosistemas{
+    width: 200px;
+}
+#productos{
+    width: 200px;
+    
+}
+#excel{
+    width: 200px;
+}
+#python{
+    width: 300px;
+}
+#iot{
+    width: 500px;
+}
+body{
+    border: 3px solid black;
 }
