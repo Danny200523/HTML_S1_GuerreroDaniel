@@ -25,4 +25,4 @@ Hecho por [Daniel Guerrero](https://github.com/Danny200523)
 
 > [!IMPORTANT]  
 > SCRUM NO ES UNA METODOLOGIA -
-> CIFRADO NO ENCRIPTADO
+> CIFRADO NO EXCRIPTADO
