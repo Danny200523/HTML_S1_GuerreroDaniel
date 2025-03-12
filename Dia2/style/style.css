@@ -46,26 +46,26 @@
     margin-left: 40px;
     margin-top: 260px;
     border: 100px;
-    width: 1000px;
+    width: 400px;
     border-color: black;
     outline: 3px solid black;
 }
 
 #tecnicosistemas{
-    width: 200px;
+    width: 100px;
 }
 #productos{
-    width: 200px;
+    width: 100px;
     
 }
 #excel{
-    width: 200px;
+    width: 100px;
 }
 #python{
-    width: 300px;
+    width: 100px;
 }
 #iot{
-    width: 500px;
+    width: 100px;
 }
 body{
     border: 3px solid black;
