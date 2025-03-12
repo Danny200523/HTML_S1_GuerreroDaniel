@@ -1,45 +1,27 @@
-# Título
+# HTML // CSS
 Esta de una decripción
 
 ## Tabla de contenidos
-| Indice | Titulo  |
+| Indice | Contenido  |
 |--|--|
-| 1 | Sección 1 |
-| 2 | Sección 2 |
-| 3 | Sección 3 |
-| 4 | Sección 4 |
-| 5 | Sección 5 |
+| Dia 1 | [IR](./Dia1/) |
+| Dia 2 | [IR](./Dia2/) |
 
-### Instalaciones 
-Deberas ejecutar este comando para descargar 
+# Explicacion
+## Dia 1
+En el dia uno se realizo lo que fue la explicacion e introduccion a HTML y CSS
 
-```bash
-sudo apt install app
-```
+## Dia 2
+Se realiza un trabajo de HTML // CSS.
+Realizar una hoja de vida en una pagina web haciendo uso de lo aprendido e investigar todo lo necesario para cumplir los requerimientos
+[INDEX.HTML](./Dia2/index.html)
+Se realizo este trabajo en su totalidad modularizado y documentado, con despliegue de paginas en github para podervisualizarla de manera mas sencilla
 
-### Como se juega 
-![imagen gato](./gato.png)
-
-### Sección 
-- Ítem 1
-- Ítem 2
-- Ítem 3
-
-Hecho por [algunapersona](https://algunapersonaenestemundo)
-
->Este texto será una cita.
+Hecho por [Daniel Guerrero](https://github.com/Danny200523)
 
 > [!NOTE]
->Esto es una nota especial
-
-> [!TIP]
-> Esto es un tip
+>Este Repositorio estara dividido por dias de clases para su orden
 
 > [!IMPORTANT]  
-> Esto es información importante
-
-> [!WARNING]  
-> Esto es una alerta
-
-> [!CAUTION]
-> Esto es una advertencia
+> SCRUM NO ES UNA METODOLOGIA
+> CIFRADO NO EXCRIPTADO
