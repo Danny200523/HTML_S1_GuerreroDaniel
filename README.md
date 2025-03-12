@@ -23,5 +23,5 @@ Hecho por [Daniel Guerrero](https://github.com/Danny200523)
 >Este Repositorio estara dividido por dias de clases para su orden
 
 > [!IMPORTANT]  
-> SCRUM NO ES UNA METODOLOGIA
+> SCRUM NO ES UNA METODOLOGIA -
 > CIFRADO NO EXCRIPTADO
