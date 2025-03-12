@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(167, 175, 182);
+}
+#table{
+    border: 2px solid black;
+}
+#dani{
+    border-radius: 50%;
+    width: 300px;
+}
+.col{
+    border: 2px solid black;
+    text-align: center;
+}
+.certi{
+    width: 200px;
+}
