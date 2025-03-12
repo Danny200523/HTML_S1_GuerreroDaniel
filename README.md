@@ -10,7 +10,7 @@ Esta de una decripción
 # Explicacion
 ## Dia 1
 En el dia uno se realizo lo que fue la explicacion e introduccion a HTML y CSS
-Incluyendo el aprendizaje de FUndamentos y reglas basicas de HTML // CSS
+Incluyendo el aprendizaje de Fundamentos y reglas basicas de HTML // CSS
 
 ## Dia 2
 Se realiza un trabajo de HTML // CSS.
