@@ -23,7 +23,7 @@ Se realizo este trabajo en su totalidad modularizado y documentado, con desplieg
 Se realiza un trabajo de HTML // CSS.
 Realizar una HV en una pagina web implementando el uso de listas y tablas
 que se aprendio en la ultima clase y cumplir todos los requerimientos ya estipulados //[DOCUMENTO PRINCIPAL](./Dia3/index.html)
-Se realizo este trabajo en su totalidad modularizado y documentado, con despliegue de paginas en github para podervisualizar de manera mas sencilla
+Se realizo este trabajo en su totalidad modularizado y documentado, con despliegue de paginas en github para podervisualizar de manera mas sencilla.
 
 Hecho por [Daniel Guerrero](https://github.com/Danny200523)
 
