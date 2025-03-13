@@ -6,6 +6,7 @@ Esta de una decripción
 |--|--|
 | Dia 1 | [IR](./Dia1/) |
 | Dia 2 | [IR](./Dia2/) |
+| Día 3 | [IR](./Dia3/) |
 
 # Explicacion
 ## Dia 1
@@ -18,6 +19,12 @@ Realizar una hoja de vida en una pagina web haciendo uso de lo aprendido e inves
 [INDEX.HTML](./Dia2/index.html)
 Se realizo este trabajo en su totalidad modularizado y documentado, con despliegue de paginas en github para podervisualizarla de manera mas sencilla
 
+## Día 3
+Se realiza un trabajo de HTML // CSS.
+Realizar una HV en una pagina web implementando el uso de listas y tablas
+que se aprendio en la ultima clase y cumplir todos los requerimientos ya estipulados //[DOCUMENTO PRINCIPAL](./Dia3/index.html)
+Se realizo este trabajo en su totalidad modularizado y documentado, con despliegue de paginas en github para podervisualizar de manera mas sencilla
+
 Hecho por [Daniel Guerrero](https://github.com/Danny200523)
 
 > [!NOTE]
@@ -25,4 +32,4 @@ Hecho por [Daniel Guerrero](https://github.com/Danny200523)
 
 > [!IMPORTANT]  
 > SCRUM NO ES UNA METODOLOGIA -
-> CIFRADO NO EXCRIPTADO
+> CIFRADO NO ENCRIPTADO
