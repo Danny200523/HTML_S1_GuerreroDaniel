@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de registro - Mi web</title>
+    <link rel="stylesheet" href="./style/style.css">
+</head>
+<body>
+    <table id="all">
+        <tr>
+            <td>
+            <h1>Formulario de registro - Mi web</h1>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <form name="Form" action="" method="post">
+            <input maxlength="50" id="name" type="text" name="Username" placeholder="Names"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <input maxlength="50" id="last" type="text" name="Apellidos" placeholder="last names"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <label class="gender" for="genders">Choose Gender</label>
+            <select class="gender" name="genders">
+              <option value="N/A">N/A</option>
+              <option value="Hombre">Hombre</option>
+              <option value="Mujer">Mujer</option></select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <input type="email" name="correo" placeholder="Email">
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <input type="checkbox" id="agree" name="rules" value="Agree">
+            <label for="agree"> I wish to receive information about news and offers </label><br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <input type="checkbox" id="agree2" name="rules" value="agree2">
+            <label for="agree2"> I declare that I have read and accept the general conditions of the program and the data protection regulations. </label><br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <label class="gender" for="place">Choose places</label>
+            <select name="place">
+                <option value="Bucaramanga">Bucaramanga</option>
+                <option value="Giron">Giron</option>
+                <option value="Floridablanca">Floridablanca</option>
+                <option value="Piedecuesta">Piedecuesta</option>
+            </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <label for="descrip"></label>
+            <textarea id="descrip" name="descripcion" rows="4" cols="50"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <input type="submit" value="Enviar">
+            </td>
+        </tr>
+        </form>
+    </table>
+</body>
+</html>
