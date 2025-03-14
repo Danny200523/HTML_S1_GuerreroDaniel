@@ -24,7 +24,7 @@ Se realizo este trabajo en su totalidad modularizado y documentado, con desplieg
 ## Día 3
 Se realiza un trabajo de HTML // CSS.
 Realizar una HV en una pagina web implementando el uso de listas y tablas
-que se aprendio en la ultima clase y cumplir todos los requerimientos ya estipulados //[DOCUMENTO PRINCIPAL]//(./Dia3/index.html)
+que se aprendio en la ultima clase y cumplir todos los requerimientos ya estipulados //[DOCUMENTO PRINCIPAL](./Dia3/index.html)//
 Se realizo este trabajo en su totalidad modularizado y documentado, con despliegue de paginas en github para poder visualizar de manera mas sencilla.
 
 ## Día 4
