@@ -156,10 +156,21 @@ body{
 }
 #mac{
     margin-left: 683.33px;
-    margin-top: -400px;
+    margin-top: -390px;
 }
 #tmr{
     margin-top: 114px;
     margin-left: 541.33px;
     margin-inline-end: 36px;
+}
+#pcc{
+    position: absolute;
+    margin-top: -400px;
+    margin-left: -150px;
+}
+#fh2{
+    position: absolute;
+    rotate: 210grad;
+    margin-left: 170px;
+    margin-top: -300.62px;
 }
