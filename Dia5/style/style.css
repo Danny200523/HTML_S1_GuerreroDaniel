@@ -1,6 +1,73 @@
-*{
+@import url(./variables.css);
+body{
+    background-image: url(../img/FondoTwitch.png);
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
     background-color: black;
 }
 #lupa{
-    margin-top: -800px;
+    margin-top: 30px;
+    margin-left: 57px;
+    width: 36px;
+}
+#prime{
+    margin-top: 125px;
+    margin-left: 670px;
+    width: 556px;
+    height: 313px;
+}
+#text1{
+    font-family: "Amazon Ember";
+    font: "bold";
+    font-size: 65px;
+    margin-left: 389px;
+    margin-top: -42px;
+    color: white;
+    width: 1151px;
+    height: 60px;
+}
+#now{
+    font-family: "Amazon Ember";
+    font: "light";
+    color: white;
+    font-size: 34px;
+    text-align: center;
+    width: 1160px;
+    height: 102px;
+    text-indent: 36px;
+    margin-top: 31px;
+    margin-left: 380px;
+}
+#loginc{
+    margin-left: 1695px;
+    margin-top: -60px;
+}
+#rt{
+    margin-top: 30px;
+    margin-left: 730px;
+}
+#login{
+    margin-left: 1773px;
+    margin-right: -1540px;
+    margin-top: -44px;
+    width: 50px;
+    height: 20px;
+    font-family: "Amazon Ember";
+    font: "light";
+    font-size: 20px;
+}
+#so{
+    font-family: "Amazon Ember";
+    font: "light";
+    font-size: 40px;
+    margin-left: 780px;
+    margin-top: -80px;
+}
+#gr2{
+    margin-left: 52.33px;
+    margin-top: 247px;
+}
+#rt2{
+    margin-left: 52.33px;
+    margin-top: 44px;
 }
