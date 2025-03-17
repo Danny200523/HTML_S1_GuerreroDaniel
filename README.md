@@ -8,6 +8,7 @@ Esta de una decripción
 | Dia 2 | [IR](./Dia2/) |
 | Día 3 | [IR](./Dia3/) |
 | Día 4 | [IR](./Dia4/) |
+| Día 5 | [IR](./Dia5/) |
 
 
 # Explicacion
@@ -32,6 +33,12 @@ Se realiza un trabajo de HTML // CSS.
 Se crea un formulario sencillo sin accion ni funcionalidad al subir, esta hecho de manera ordenada y lineal a la estructuracion de los requerimientos
 //[DOCUMENTO PRINCIPAL](./Dia4/index.html)//
 Modularizado y documentado con despliegue de pagina en github para poder visualizar de manera mas sencilla
+
+## Día 5
+Se realiza un trabajo de HTML // CSS
+Se crea una pagina de forma exacta a el prototipo entregado replicando una pagina de prime video
+//[DOCUMENTO PRINCIPAL](./Dia5/index.html)
+Modularizado, uso de fuentes importadas e importacion de imagenes, con despliegue de pagina en github para facilitar visualizacion
 
 Hecho por [Daniel Guerrero](https://github.com/Danny200523)
 
