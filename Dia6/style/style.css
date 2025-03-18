@@ -63,6 +63,25 @@ body{
     margin-left: 780px;
     margin-top: -80px;
 }
+#gr{
+    background-color: #ffffff;
+    text-align: center;
+    width: 205px;
+    height: 54px;
+    margin-left: 1695px;
+    border-radius: 80px;
+    margin-top: -44px;
+    padding: 4px;
+}
+#gr1{
+    background-color: #ffffff;
+    text-align: center;
+    width: 458px;
+    height: 104px;
+    margin-left: 730px;
+    border-radius: 80px;
+    margin-top: 75px;
+}
 #gr2{
     background-color: #00A8E1;
     text-align: center;
