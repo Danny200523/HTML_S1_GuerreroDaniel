@@ -134,14 +134,23 @@ body{
 }
 #ret{
     margin-left: 62.33px;
-    margin-top: 71px;
+    margin-top: 20px;
+}
+#gr4{
+    background-color: #00A8E1;
+    width: 1792px;
+    height: 567px;
+    margin-left: 64px;
+    border-radius: 80px;
+    margin-top: 90px;
+
 }
 #cc{
     font-family: "Amazon Emberb";
     font-size: 60px;
     color: white;
     margin-left: 496px;
-    margin-top: -488px;
+    margin-top: -520px;
 }
 #x{
     margin-top: 44px;
