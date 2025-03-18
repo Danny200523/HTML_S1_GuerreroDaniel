@@ -1,0 +1,208 @@
+@import url(./variables.css);
+body{
+    background-image: url(../img/FondoTwitch.png);
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    background-color: black;
+}
+#lupa{
+    margin-top: 30px;
+    margin-left: 57px;
+    width: 36px;
+}
+#prime{
+    margin-top: 125px;
+    margin-left: 670px;
+    width: 556px;
+    height: 313px;
+}
+#text1{
+    font-family: "Amazon Emberb";
+    font: "bold";
+    font-size: 60px;
+    margin-left: 389px;
+    margin-top: -42px;
+    color: white;
+    width: 1151px;
+    height: 60px;
+}
+#now{
+    font-family: "Amazon Emberl";
+    font: "light";
+    color: white;
+    font-size: 34px;
+    text-align: center;
+    width: 1160px;
+    height: 102px;
+    text-indent: 36px;
+    margin-top: 31px;
+    margin-left: 380px;
+}
+#loginc{
+    margin-left: 1695px;
+    margin-top: -60px;
+}
+#rt{
+    margin-top: 30px;
+    margin-left: 730px;
+}
+#login{
+    margin-left: 1773px;
+    margin-right: -1540px;
+    margin-top: -44px;
+    width: 50px;
+    height: 20px;
+    font-family: "Amazon Emberl";
+    font: "light";
+    font-size: 20px;
+}
+#so{
+    font-family: "Amazon Emberl";
+    font: "light";
+    font-size: 40px;
+    margin-left: 780px;
+    margin-top: -80px;
+}
+#gr2{
+    background-color: #00A8E1;
+    text-align: center;
+    width: 1792px;
+    height: 567px;
+    margin-left: 64px;
+    border-radius: 80px;
+    margin-top: 247px;
+}
+#gg{
+    font-size: 60px;
+    color: white;
+    text-align: left;
+    font-family: "Amazon Emberb";
+    padding-top: 65px;
+    margin-left: 320px;
+}
+#tv{
+    width: 250px;
+    margin-top: 40px;
+}
+#gg2{
+    font-size: 40px;
+    text-align: center;
+    font-family: "Amazon Emberl";
+    color: white;
+}
+#gr3{
+    background-color: #00A8E1;
+    text-align: center;
+    width: 1792px;
+    height: 724px;
+    margin-left: 64px;
+    border-radius: 80px;
+    margin-top: 44px;
+}
+#rt2{
+    margin-left: 52.33px;
+    margin-top: 44px;
+}
+#text{
+    margin-top: -680px;
+    margin-left: 133.33px;
+    width: 1664px;
+    height: 60px;
+    font-size: 60px;
+    color: white;
+    font-family: "Amazon Emberb";
+    font: "bold";
+}
+#pp1{
+    margin-left: 475.33px;
+    margin-top: 56px;
+}
+.pp{
+    position: relative;
+    margin-left: 10px;
+
+}
+#cd{
+    font-family: "Amazon Emberl";
+    font-size: 50px;
+    width: 1492px;
+    height: 110px;
+    margin-left: 207px;
+    margin-top: 81px;
+    text-align: center;
+    color: white;
+}
+#ret{
+    margin-left: 62.33px;
+    margin-top: 71px;
+}
+#cc{
+    font-family: "Amazon Emberb";
+    font-size: 60px;
+    color: white;
+    margin-left: 496px;
+    margin-top: -488px;
+}
+#x{
+    margin-top: 44px;
+    margin-left: 811.68px;
+}
+#h{
+    font-family: "Amazon Emberl";
+    font-size: 40px;
+    margin-top: 62.36px;
+    text-align: center;
+    margin-left: 205px;
+    width: 1382px;
+    color: white;
+}
+#comp{
+    font-family: "Amazon Emberl";
+    color: white;
+    margin-top: 93px;
+    margin-left: 416.33px;
+    font-size: 125px;
+    width: 1118px;
+    height: 125px;
+    text-align: center;
+}
+#mc{
+    font-family: "Amazon Emberl";
+    color: white;
+    margin-top: 44px;
+    margin-left: 179.33px;
+    font-size: 45px;
+    text-align: center;
+    width: 1544px;
+    height: 99px;
+}
+#fh1{
+    width: 26.61px;
+    height: 18.9px;
+    margin-top: 294.06px;
+    margin-left: 303.27px;
+}
+#ipo{
+    margin-top: -100px;
+    margin-left: 384.33px;
+}
+#mac{
+    margin-left: 683.33px;
+    margin-top: -390px;
+}
+#tmr{
+    margin-top: 114px;
+    margin-left: 541.33px;
+    margin-inline-end: 36px;
+}
+#pcc{
+    position: absolute;
+    margin-top: -400px;
+    margin-left: -150px;
+}
+#fh2{
+    position: absolute;
+    rotate: 210grad;
+    margin-left: 170px;
+    margin-top: -300.62px;
+}
