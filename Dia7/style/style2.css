@@ -26,10 +26,11 @@
 #text1{
     font-family: "openR";
     font-size: 30px;
-    margin-left: 700px;
+    margin-left: 695px;
     margin-top: -46px;
-    width: 230px;
+    width: 235px;
     height: 41px;
+    border: none;
 }
 #text2{
     font-family: "openR";
@@ -38,7 +39,6 @@
     height: 41px;
     margin-left: 960px;
     margin-top: -43px;
-    border: none;
     position: absolute;
 }
 #lupa{
@@ -57,38 +57,73 @@
     position: absolute;
 }
 #line{
-    margin-left: 740.5px;
-    margin-top: 20px;
+    margin-left: 987.75px;
+    margin-top: 10px;
+    width: 83.5px;
 }
 #text3{
     font-family: "openR";
     font-size: 20px;
-    margin-left: 1309px;
+    margin-left: 1330px;
     margin-top: 25px;
     color: white;
 }
 #menu{
-    margin-left: 1345px;
-    margin-top: 131px;
+    font-family: "openR";
+    font-size: 20px;
+    color: white;
+    margin-left: 1323px;
+    margin-top: 100px;
+    opacity: 0.5;
+}
+.xs{
+    opacity: 1;
+    font-family: "openR";
+    font-size: 20px;
+    color: white;
+    margin-left: 1323px;
+    margin-top: 100px;
 }
 #tarjeta{
-    margin-left: 127px;
-    margin-top: -345px;
+    width: 576px;
+    height: 324px;
+    margin-left: 359px;
+    margin-top: -460px;
     position: absolute;
 }
 #text4{
     font-family: "openSB";
     color: black;
-    margin-top: 574px;
-    margin-left: 58px;
+    margin-top: 319px;
+    margin-left: 360px;
     font-size: 40px;
-    box-shadow: #707070 10px;
 }
 #text5{
     font-family: "openSB";
     font-size: 27px;
-    margin-top: 8px;
-    margin-left: 57px;
+    margin-top: 22px;
+    margin-left: 540px;
+}
+#text6{
+    margin-left: 589px;
+    font-size: 27px;
+    font-family: "openSB";
+    margin-top: 30px;
+}
+#bloque2{
+    border: 1px solid #707070;
+    border-radius: 10px;
+    width: 288px;
+    height: 58px;
+    margin-left: 545px;
+    margin-top: 18px;
+}
+#text7{
+    font-size: 27px;
+    font-family: "openSB";
+    opacity: 0.5;
+    text-align: center;
+    margin-top: 10px;
 }
 #bloque{
     border: #D5FF43;
@@ -96,8 +131,8 @@
     width: 160px;
     height: 114px;
     border-radius: 8px;
-    margin-left: 1080px;
-    margin-top: -110px;
+    margin-left: 1130px;
+    margin-top: px;
 }
 #tarjeta1{
     width: 129px;
@@ -105,7 +140,7 @@
     margin-top: 29px;
     margin-left: 15px;
 }
-#text6{
+#text8{
     font-family: "openSB";
     font-size: 26px;
     width: 111px;
@@ -115,6 +150,6 @@
 }
 #arrow2{
     margin-left: 1385.82px;
-    margin-top: -15px;
+    margin-top: -30px;
     position: absolute;
 }
