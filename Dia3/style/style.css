@@ -3,6 +3,7 @@
 }
 #table{
     border: 2px solid black;
+    border-collapse: collapse;
 }
 #dani{
     border-radius: 50%;
