@@ -9,6 +9,8 @@ Esta de una decripción
 | Día 3 | [IR](./Dia3/) |
 | Día 4 | [IR](./Dia4/) |
 | Día 5 | [IR](./Dia5/) |
+| Día 6 | [IR](./Dia6/) |
+| Día 7 | [IR](./Dia7/) |
 
 
 # Explicacion
@@ -41,6 +43,18 @@ Se crea una pagina de forma exacta a el prototipo entregado replicando una pagin
 Modularizado, uso de fuentes importadas e importacion de imagenes, con despliegue de pagina en github para facilitar visualizacion
 
 Hecho por [Daniel Guerrero](https://github.com/Danny200523)
+
+## Día 6
+Se realiza pagina de HTML // CSS
+replicando la maquetada dada por el profesor,
+cumpliendo todos los parametros y dejando la pagina identica a la maqueta realizada
+//[DOCUMENTO PRINCIPAL](./Dia6/index.html)//
+
+## Día 7
+Se realiza pagina de HTML // CSS
+replicando la maquetada dada por el profesor,
+cumpliendo todos los parametros y dejando la pagina identica a la maqueta realizada
+//[DOCUMENTO PRINCIPAL](./Dia7/index.html)//
 
 > [!NOTE]
 >Este Repositorio estara dividido por dias de clases para su orden
