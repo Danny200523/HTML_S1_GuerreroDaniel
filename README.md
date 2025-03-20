@@ -56,6 +56,12 @@ replicando la maquetada dada por el profesor,
 cumpliendo todos los parametros y dejando la pagina identica a la maqueta realizada
 //[DOCUMENTO PRINCIPAL](./Dia7/index.html)//
 
+## Día 8
+Se realiza pagina de HTML // CSS
+replicando la maquetada dada por el profesor,
+cumpliendo todos los parametros y dejando la pagina identica a la maqueta realizada
+//[DOCUMENTO PRINCIPAL](./Dia8/index.html)//
+
 > [!NOTE]
 >Este Repositorio estara dividido por dias de clases para su orden
 
