@@ -2,6 +2,22 @@
 body{
     background-color: black;
 }
+#text2:hover{
+    text-decoration: underline;
+    text-decoration-color: #ce9e5a;
+}
+#text3:hover{
+    text-decoration: underline;
+    text-decoration-color: #ce9e5a;
+}
+#text4:hover{
+    text-decoration: underline;
+    text-decoration-color: #ce9e5a;
+}
+#text5:hover{
+    text-decoration: underline;
+    text-decoration-color: #ce9e5a;
+}
 .color{
     color: white;
 }
