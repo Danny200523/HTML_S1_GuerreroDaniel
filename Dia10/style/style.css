@@ -22,81 +22,89 @@ body{
     color: white;
 }
 #img1{
-    margin-top: 20px;
-    margin-left: -8px;
-    width: 1920px;
-    height: 1080px;
+    margin-top: 1%;
+    margin-left: -3%;
+    width: 103vw;
     object-fit: cover;
 }
 #text1{
-    margin-top: -1086px;
-    margin-left: 333px;
+    margin-top: -69.4%;
+    margin-left: 20%;
     font-family: "BrB";
-    font-size: 33px;
+    font-size: 1.5vw;
+    position: relative;
 }
 #text2{
-    margin-top: -33px;
-    margin-left: 1150px;
+    margin-top: -1%;
+    margin-left: 60%;
     font-family: "open";
-    font-size: 20px;
+    font-size: 0.8vw;
     text-decoration: none;
+    position: relative;
 }
 #text2-a {
     text-decoration: none;
 }
 #text3{
-    margin-top: -25px;
-    margin-left: 1270px;
+    margin-top: -1.01%;
+    margin-left: 64%;
     font-family: "open";
-    font-size: 20px;
+    font-size: 0.8vw;
     text-decoration: none;
+    position: relative;
 }
 #text3-a{
     text-decoration: none;
 }
 #text4{
-    margin-top: -25px;
-    margin-left: 1400px;
+    margin-top: -1%;
+    margin-left: 68.5%;
     font-family: "open";
-    font-size: 20px;
+    font-size: 0.8vw;
     text-decoration: none;
+    position: relative;
 }
 #text4-a{
     text-decoration: none;
 }
 #text5{
-    margin-top: -25px;
-    margin-left: 1515px;
+    margin-top: -1%;
+    margin-left: 73%;
     font-family: "open";
-    font-size: 20px;
+    font-size: 0.8vw;
+    position: relative;
 }
 #text5-a{
     text-decoration: none;
 }
 #text6{
-    margin-top: 155px;
-    margin-left: 635px;
+    margin-top: 14%;
+    margin-left: 33%;
     font-family: "play";
-    font-size: 75px;
+    font-size: 3.7vw;
+    position: relative;
 }
 #text7{
-    margin-top: 640px;
-    margin-left: 595px;
+    margin-top: 36%;
+    margin-left: 31%;
     font-family: "play";
-    font-size: 75px;    
+    font-size: 3.7vw; 
+    position: relative;
 }
 #bloque{
-    width: 150px;
-    height: 40px;
+    width: 8.3%;
     background-color: #ce9e5a;
-    margin-left: 870px;
-    margin-top: 40px;
-    position: absolute;
+    margin-left: 46%;
+    margin-top: 2%;
+    position: relative;
+    padding: 0.2%;
 }
 #text8{
     font-family: "open";
-    margin-top: 10px;
-    margin-left: 35px;
+    margin-top: 1%;
+    margin-left: 19%;
+    font-size: 1vw;
+    position: relative;
 }
 #img2{
     margin-top: 300px;
