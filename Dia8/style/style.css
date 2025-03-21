@@ -39,24 +39,39 @@ body{
     margin-left: 1150px;
     font-family: "open";
     font-size: 20px;
+    text-decoration: none;
+}
+#text2-a {
+    text-decoration: none;
 }
 #text3{
     margin-top: -25px;
     margin-left: 1270px;
     font-family: "open";
     font-size: 20px;
+    text-decoration: none;
+}
+#text3-a{
+    text-decoration: none;
 }
 #text4{
     margin-top: -25px;
     margin-left: 1400px;
     font-family: "open";
     font-size: 20px;
+    text-decoration: none;
+}
+#text4-a{
+    text-decoration: none;
 }
 #text5{
     margin-top: -25px;
     margin-left: 1515px;
     font-family: "open";
     font-size: 20px;
+}
+#text5-a{
+    text-decoration: none;
 }
 #text6{
     margin-top: 155px;
