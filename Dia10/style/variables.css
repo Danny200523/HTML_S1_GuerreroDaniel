@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "BrB";
+    src: url('../fonts/Barlow-Bold.ttf');
+}
+@font-face {
+    font-family: "open";
+    src: url('../fonts/open-sauce.one-semibold.ttf');
+}
+@font-face {
+    font-family: "play";
+    src: url('../fonts/PlayfairDisplay-Black.ttf');
+}
