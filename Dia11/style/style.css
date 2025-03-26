@@ -1,0 +1,36 @@
+.contenedor-flex{
+    align-self: center;
+    display: grid;
+    width: 73vw;
+    background-color: black;
+}
+.img1{
+    margin-top: 1vw;
+    margin-left: 1vw;
+    width: 34.7vw;
+    border-radius: 40px;
+}
+.img2{
+    margin-top: 1vw;
+    margin-left: 1vw;
+    margin-bottom: 1vw;
+    border-radius: 40px;
+    width: 34.7vw;
+}
+.img3{
+    width: 34.53vw;
+    margin-top: 1vw;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    border-radius: 40px;   
+}
+.img4{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    margin-left: 1.1vw;
+    margin-bottom: 1vw; 
+    width: 70.5vw;
+    border-radius: 40px;
+}
