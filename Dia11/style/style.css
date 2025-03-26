@@ -2,6 +2,7 @@
     display: grid;
     width: 73vw;
     background-color: black;
+    margin-left: 13vw;
 }
 .img1{
     margin-top: 1vw;
@@ -39,6 +40,7 @@
     display: grid;
     width: 73vw;
     background-color: black;
+    margin-left: 13vw;
 }
 .img5{
     width: 34.7vw;
