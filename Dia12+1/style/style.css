@@ -1,0 +1,30 @@
+body{
+    background-image: url(../img/paisaje.jpeg);
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    /*overflow-y: hidden; /* Hide vertical scrollbar */
+    /*overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+.sol{
+    margin-left: 80vw;
+}
+.nube{
+    margin-top: -14vw;
+    margin-left: 40vw;
+}
+.nube img{
+    width: 40vw;
+}
+.gota{
+    margin-top: -5vw;
+}
+.gota img{
+    width: 3vw;
+}
+.flor{
+    margin-top: 60vw;
+}
+.flor img{
+    width: 10vw;
+    rotate: -45grad;
+}
