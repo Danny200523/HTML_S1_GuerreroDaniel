@@ -2,9 +2,24 @@
     font-family: "Kiwi";
     src: url('../fonts/KiwiSoda.ttf')
 }
+
+@keyframes animacion {
+    from {top: 0px;}
+    to{
+        top: -50px;
+        opacity: 1;
+    }
+}
+@keyframes nube {
+    0%{opacity: 1;margin-left: 50vw;}
+    30%{margin-left: -60vw;}
+    80%{margin-left: -60vw;}
+    100%{opacity: 1;margin-left: -120vw;}
+}
+
 body{
-    background-image: url('../img/Fondo.jpg');
-    background-size: 100vw 54vw;
+    background-image: url('../img/Fondo.jpeg');
+    background-size: 100vw 52.2vw;
     background-repeat: no-repeat;
     /*overflow-y: hidden; /* Hide vertical scrollbar */
     /*overflow-x: hidden; /* Hide horizontal scrollbar */
@@ -15,30 +30,42 @@ margin-left: 50vw;
 position: absolute;
 }
 .letras div{
-    color: black;
+    color: white;
     font-family: "Kiwi";
     font-size: 3vw;
     position: absolute;
 }
 #tres{
     opacity: 0;
+    animation: animacion 0.75s;
+    animation-iteration-count: 1;
+    animation-delay: 1s;
 }
 #dos{
     position: absolute;
     opacity: 0;
+    animation: animacion 0.75s;
+    animation-iteration-count: 1;
+    animation-delay: 2s;
 }
 #uno{
     position: absolute;
     opacity: 0;
+    animation: animacion 0.75s;
+    animation-iteration-count: 1;
+    animation-delay: 3s;
 }
 #accion{
     margin-left: -3vw;
     position: absolute;
     opacity: 0;
+    animation: animacion 0.75s;
+    animation-iteration-count: 1;
+    animation-delay: 4s;
 }
 .sol{
     margin-top: -28vw;
-    margin-left: 30vw;
+    margin-left: 25vw;
     position: absolute;
 }
 .sol img{
@@ -46,31 +73,39 @@ position: absolute;
     position: absolute;
 }
 .nube{
-    margin-top: -8vw;
-    margin-left: 20vw;
+    margin-top: -10vw;
     position: absolute;
 }
 .nube img{
+    margin-left: -20vw;
     width: 40vw;
     position: absolute;
-}
-.gota{
-    margin-top: 16VW;
-    margin-left: -76VW;
-    position: absolute;
-    rotate: 12grad;
     opacity: 0;
 }
-.gota img{
-    width: 3vw;
+#nube1{
+    animation: nube 15s;
+    animation-iteration-count: 1;
+    animation-delay: 5s;
+}
+.gota{
+    margin-top: 20vw;
+    margin-left: -23vw;
     position: absolute;
+    rotate: 12grad;
+}
+.gota img{
+    width: 5vw;
+    position: absolute;
+    opacity: 1;
 }
 .flor{
-    margin-top: 60vw;
+    margin-top: 45vw;
+    margin-left: -25vw;
     position: absolute;
 }
 .flor img{
     width: 10vw;
-    rotate: -45grad;
+    rotate: -10grad;
     position: absolute;
-}  
+    opacity: 0.5;
+}
