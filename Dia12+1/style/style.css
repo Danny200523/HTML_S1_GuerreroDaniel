@@ -88,16 +88,37 @@ position: absolute;
     animation-delay: 5s;
 }
 .gota{
-    margin-top: 20vw;
+    margin-top: 17vw;
     margin-left: -23vw;
     position: absolute;
-    rotate: 12grad;
 }
 .gota img{
     width: 5vw;
     position: absolute;
     opacity: 1;
 }
+#gota1{
+    margin-left: -7vw;
+}
+#gota2{}
+#gota3{}
+#gota4{}
+#gota5{}
+#gota6{}
+#gota7{}
+#gota8{}
+#gota9{}
+#gota10{}
+#gota11{}
+#gota12{}
+#gota13{}
+#gota14{}
+#gota15{}
+#gota16{}
+#gota17{}
+#gota18{}
+#gota19{}
+#gota20{}
 .flor{
     margin-top: 45vw;
     margin-left: -25vw;
